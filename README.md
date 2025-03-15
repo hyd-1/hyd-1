@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🔭 I’m currently working on Xiangtan University
-##🌱 I’m currently learning CFD,mathematics，AI
+## 🌱 I’m currently learning CFD,mathematics，AI
 ## 💬 Ask me about mathematics
 <!--
 **hyd-1/hyd-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
